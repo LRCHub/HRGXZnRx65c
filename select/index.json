@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君が僕を嗤う日",
+  "base_artist": "中瀬ミル",
+  "createdAt": "2026-03-15T14:32:19.384564Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君が僕を嗤う日",
+      "artist": "中瀬ミル",
+      "has_synced": false,
+      "path": "select/pl_01_君が僕を嗤う日_中瀬ミル.txt"
+    }
+  ]
+}
